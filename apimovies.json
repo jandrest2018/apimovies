@@ -2,7 +2,7 @@
 "result":{
 "peliculas":[
 {
-"name":"El_sexto_sentido",
+"name":"npc_dota_hero_El_sexto_sentido",
 "id":1,
 "director":"M._Night_Shyamalan",
 "clasificacion":"Drama"
@@ -49,5 +49,3 @@
 count:113
 }
 }
-
-npc_dota_hero_antimage

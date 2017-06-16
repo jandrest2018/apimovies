@@ -20,8 +20,8 @@
       <file leaf-file-name="apimovies.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/apimovies.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            <state relative-caret-position="750">
+              <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -167,12 +167,12 @@
       <option name="presentableId" value="Default" />
       <updated>1497572969228</updated>
       <workItem from="1497572973426" duration="472000" />
-      <workItem from="1497574137054" duration="1137000" />
+      <workItem from="1497574137054" duration="1257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1609000" />
+    <option name="totallyTimeSpent" value="1729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="607" y="78" width="1569" height="1160" extended-state="0" />
@@ -217,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apimovies.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="750">
+          <caret line="50" column="1" lean-forward="false" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
           <folding />
         </state>
       </provider>
