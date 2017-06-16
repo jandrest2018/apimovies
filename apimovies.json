@@ -3,43 +3,43 @@
 "peliculas":[
 {
 "id":1,
-"nombre":"El_sexto_sentido",
+"name":"El_sexto_sentido",
 "director":"M._Night_Shyamalan",
 "clasificacion":"Drama"
 },
 {
 "id":2,
-"nombre":"Pulp_Fiction",
+"name":"Pulp_Fiction",
 "director":"Tarantino",
 "clasificacion":"Acción"
 },
  {
 "id": 3,
-"nombre":"Todo_Sobre_Mi_Madre",
+"name":"Todo_Sobre_Mi_Madre",
 "director":"Almodobar",
 "clasificacion":"Drama"
 },
 {
 "id": 4,
-"nombre":"300",
+"name":"300",
 "director":"Zack_Snyder",
 "clasificacion":"Acción"
 },
 {
 "id":5,
-"nombre":"El_silencio_de_los_corderos",
+"name":"El_silencio_de_los_corderos",
 "director":"Jonathan_Demme",
 "clasificacion":"Drama"
 },
 {
 "id":6,
-"nombre":"Forrest_Gump",
+"name":"Forrest_Gump",
 "director":"Robert_Zemeckis",
 "clasificacion":"Comedia"
 },
 {
 "id": 7,
-"nombre":"Las_Hurdes",
+"name":"Las_Hurdes",
 "director":"Luis_Buñuel",
 "clasificacion":"Documental"
 }
@@ -50,3 +50,4 @@ count:113
 }
 }
 
+npc_dota_hero_antimage
