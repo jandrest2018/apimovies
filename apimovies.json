@@ -3,44 +3,44 @@
 "peliculas":[
 {
 "id":1,
-"nombre":"El sexto sentido",
-"director":"M. Night Shyamalan",
+"nombre":"El_sexto_sentido",
+"director":"M._Night_Shyamalan",
 "clasificacion":"Drama"
 },
 {
 "id":2,
-"nombre":"Pulp Fiction",
+"nombre":"Pulp_Fiction",
 "director":"Tarantino",
 "clasificacion":"Acción"
 },
  {
 "id": 3,
-"nombre":"Todo Sobre Mi Madre",
+"nombre":"Todo_Sobre_Mi_Madre",
 "director":"Almodobar",
 "clasificacion":"Drama"
 },
 {
 "id": 4,
 "nombre":"300",
-"director":"Zack Snyder",
+"director":"Zack_Snyder",
 "clasificacion":"Acción"
 },
 {
 "id":5,
-"nombre":"El silencio de los corderos",
-"director":"Jonathan Demme",
+"nombre":"El_silencio_de_los_corderos",
+"director":"Jonathan_Demme",
 "clasificacion":"Drama"
 },
 {
 "id":6,
-"nombre":"Forrest Gump",
-"director":"Robert Zemeckis",
+"nombre":"Forrest_Gump",
+"director":"Robert_Zemeckis",
 "clasificacion":"Comedia"
 },
 {
 "id": 7,
-"nombre":"Las Hurdes",
-"director":"Luis Buñuel",
+"nombre":"Las_Hurdes",
+"director":"Luis_Buñuel",
 "clasificacion":"Documental"
 }
 ]
